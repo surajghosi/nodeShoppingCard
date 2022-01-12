@@ -1,0 +1,85 @@
+[{
+  "_id": {
+    "$oid": "61dc6768e3ee3d1af88e3ca0"
+  },
+  "name": "burger",
+  "price": 20,
+  "image": "image-1641834344104-five.jpg",
+  "created_at": {
+    "$date": "2022-01-10T17:05:44.137Z"
+  },
+  "updated_at": {
+    "$date": "2022-01-10T17:05:44.137Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61dc6a1ac3d40834a41edf86"
+  },
+  "name": "dabeli",
+  "price": 30,
+  "image": "image-1641835034701-seven.jpg",
+  "created_at": {
+    "$date": "2022-01-10T17:17:14.732Z"
+  },
+  "updated_at": {
+    "$date": "2022-01-10T17:17:14.732Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61dc73d287c46de8751348e4"
+  },
+  "name": "puff",
+  "price": 45,
+  "image": "image-1641837522440-six.jpg",
+  "created_at": {
+    "$date": "2022-01-10T17:58:42.472Z"
+  },
+  "updated_at": {
+    "$date": "2022-01-10T17:58:42.472Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61dc761ee865a64d7dea10f6"
+  },
+  "name": "dosa",
+  "price": 75,
+  "image": "image-1641838110552-four.jpg",
+  "created_at": {
+    "$date": "2022-01-10T18:08:30.590Z"
+  },
+  "updated_at": {
+    "$date": "2022-01-10T18:08:30.590Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61dc77439be7b98dba6e17ca"
+  },
+  "name": "sandwich",
+  "price": 80,
+  "image": "image-1641838403289-ten.jpg",
+  "created_at": {
+    "$date": "2022-01-10T18:13:23.325Z"
+  },
+  "updated_at": {
+    "$date": "2022-01-10T18:13:23.325Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61dc8c9e105d6bc873f16638"
+  },
+  "name": "pasta",
+  "price": 60,
+  "image": "image-1641843870627-one.jpg",
+  "created_at": {
+    "$date": "2022-01-10T19:44:30.658Z"
+  },
+  "updated_at": {
+    "$date": "2022-01-10T19:44:30.658Z"
+  },
+  "__v": 0
+}]
